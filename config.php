@@ -13,7 +13,7 @@ You have been warned! :)
 */
 
 // Current version of the theme
-define( 'CHURCHTHEMES_CURRENT_VERSION', '1.3.3' );
+define( 'CHURCHTHEMES_CURRENT_VERSION', '1.4' );
 
 // Theme options
 define( 'CHURCHTHEMES_OPTIONS_MAIN_COLOR', '#d65d5d' );
@@ -26,8 +26,5 @@ define( 'CHURCHTHEMES_DEFAULT_BACKGROUND_IMAGE',  WP_THEME_DIR . '/images/bg_bod
 define( 'CHURCHTHEMES_DEFAULT_BACKGROUND_COLOR', 'f6f6f6' );
 
 // Update script
-define( 'CHURCHTHEMES_UPDATE_API_URL', 'http://churchthemes.net/updates/trinity/' );
-
-// PressTrends
-define( 'CHURCHTHEMES_PRESSTRENDS_API_KEY', '6wtwv56il5mirnyk1gaiox0swbp3ut612rof' );
-define( 'CHURCHTHEMES_PRESSTRENDS_THEME_AUTH', 'me0w0kc7vxjts91yns5tuo08f9wo143tv' );
+define( 'CHURCHTHEMES_UPDATE_API_URL', 'http://churchthemes.net' );
+define( 'CHURCHTHEMES_ITEM_NAME', 'Trinity' );
